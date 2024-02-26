@@ -1,0 +1,27 @@
+{
+    "width": 16,
+    "height": 16,
+    "counterChange": 12,
+    "sprites": {
+        "down": {
+            "x": 0,
+            "y": 0,
+            "quantity": 3
+        },
+        "left": {
+            "x": 0,
+            "y": 33,
+            "quantity": 3
+        },
+        "up": {
+            "x": 0,
+            "y": 65,
+            "quantity": 3
+        },
+        "right": {
+            "x": 0,
+            "y": 97,
+            "quantity": 3
+        }
+    }
+}

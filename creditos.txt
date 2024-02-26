@@ -1,0 +1,6 @@
+sprite: https://gibbongl.itch.io/8-directional-gameboy-character-template
+background: https://evil49nd.itch.io/space-background
+background2: https://deep-fold.itch.io/space-background-generator
+musics: https://ansimuz.itch.io/adventure-music-collection-pack-1
+musics: https://ryanavx.itch.io/breezys-mega-quest
+sfx: https://jdwasabi.itch.io/8-bit-16-bit-sound-effects-pack

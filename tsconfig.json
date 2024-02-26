@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "es6",
+    "target": "es5",
+    "allowJs": true
+  },
+  "include": ["index.d.ts"],
+  "exclude": ["node_modules"],
+  "files": ["src/index.ts"]
+}
